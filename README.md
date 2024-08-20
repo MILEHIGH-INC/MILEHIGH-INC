@@ -3,7 +3,7 @@
 • 🌱 I’m currently learning advanced software development and 3D digital arts.
 • 💞️ I’m looking to collaborate on projects involving AI, digital art, and immersive virtual worlds.
 • 📫 How to reach me: on X @milehigh_world
-• 😄 Pronouns: we and us
+• 😄 Pronouns: we/us
 • ⚡ Fun fact: We’re building a digital universe where creativity has no limits.
 
 <!---
